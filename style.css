@@ -1,0 +1,51 @@
+/* body{
+    background-color: black;
+}
+h1{
+     color: white;
+     font-family: Verdana, arial;
+}
+#p1{
+    color: red;
+    font-family: "lucida console","courier new";
+    font-size: 17px;
+    font-weight:bold ;
+    font-style: normal;
+#p2{
+    color:orange ;
+    font-family: "lucida console","courier new";
+    font-size: 17px;
+    font-weight:bold ;
+    font-style: normal;
+}
+#p3{
+    color: yellow;
+    font-family: "lucida console","courier new";
+    font-size: 17px;
+    font-weight:bold ;
+    font-style: normal;
+} */
+
+h1{
+    text-shadow: 4px 3px 6px hotpink,-4px -3px 6px hsl(24, 93%, 28%);
+  
+}
+.box{
+      border:5px groove blue;
+}
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(152, 160, 142);
+    box-shadow: 7px 10px 7px hsl(24, 23%, 28%);
+    margin: 60px;
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: azure;
+}
+
+
+
+
